@@ -1,0 +1,24 @@
+.box {
+width: 100px;
+height: 80px;
+margin: 30px auto;
+background-color: yellow;
+
+padding: 10px;
+text-align: center;
+width: 100px;
+height:80px;
+
+text-indent: 0px;
+border: 1px solid #888;
+-moz-transition: all 1s linear;
+-o-transition: all 1s linear;
+-webkit-transition: all 1s linear;
+cursor: pointer;}
+
+.box:hover {
+background-color: red;
+color: #000;
+width: 150px;
+height:50px;
+}
